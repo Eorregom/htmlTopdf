@@ -16,6 +16,9 @@ options = {
   'load-error-handling': 'ignore'
 }
 
+
+#Tring to lear some pyinstaller
+
 for item in files:
     path = mypath +"\\"+ item 
     name = os.listdir(path)
