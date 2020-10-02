@@ -16,6 +16,10 @@ options = {
   'load-error-handling': 'ignore'
 }
 
+
+
+perreo
+
 for item in files:
     path = mypath +"\\"+ item 
     name = os.listdir(path)
