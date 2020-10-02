@@ -17,6 +17,9 @@ options = {
 }
 
 
+
+perreo
+
 for item in files:
     path = mypath +"\\"+ item 
     name = os.listdir(path)
