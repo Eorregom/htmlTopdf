@@ -1,1 +1,0 @@
-#propositos de estudio
